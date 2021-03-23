@@ -9,5 +9,23 @@
 
 # TODOs
 
-- [x] Make timeline; nlt 03-21
-- [ ] Make todos; nlt 03-21
+- [x] Make timeline; nlt 03-23
+- [x] Make todos; nlt 03-23
+- [ ] Book moving company for 04-12; nlt 03-24
+- - [ ] Arrange for moving company access to North sydney apt
+- [ ] Pay first 2 weeks rent, bond; nlt 03-25
+- [ ] Measure furnature sizes + plan for moving, storage
+- [ ] Book cleaner for 04-13; nlt 03-29
+- [ ] Arrange for fridge, washer removal; nlt 03-29
+- [ ] Arrange utility transfer/connection; nlt 03-31
+- - [ ] Electricity (Red energy)
+- - [ ] Internet (Optus)
+- - [ ] Gas (new connection - add to Red energy plan)
+- [ ] Set up mail redirection; nlt 03-31
+- [ ] Notify change of address; nlt 04-16
+- - [ ] Work
+- - [ ] ATO (medicare, etc)
+- - [ ] AEC
+- - [ ] Drivers license
+- - [ ] Bank
+- - [ ] Dragonsteel
