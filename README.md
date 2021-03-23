@@ -29,3 +29,9 @@
 - - [ ] Drivers license
 - - [ ] Bank
 - - [ ] Dragonsteel
+
+# Moving notes
+
+No private parking/loading zone. Street parking usually opens up about 10am-2pm.
+
+Lift 2 for use in transporting furnature. Most likely no other occupants at that time.
