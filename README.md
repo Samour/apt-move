@@ -1,3 +1,11 @@
+# Timeline
+
+- Thu 04-08 Final payment of summer hill rent
+- Sat 04-10 Receive keys to new apartment
+- Mon 04-12 Move contents, utilities cutover
+- Tue 04-13 Cleaning of summer hill apt
+- Sat 04-17 Summer hill tenancy end, return keys
+
 # TODOs
 
 - [ ] Make timeline; nlt 03-21
