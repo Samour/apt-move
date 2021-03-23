@@ -1,5 +1,6 @@
 # Timeline
 
+- Sat 03-27 Provide 21 days notice of tenacy vacation
 - Thu 04-08 Final payment of summer hill rent
 - Sat 04-10 Receive keys to new apartment
 - Mon 04-12 Move contents, utilities cutover
