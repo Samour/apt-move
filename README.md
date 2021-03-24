@@ -3,7 +3,8 @@
 - Fri 03-26 Provide 21 days notice of tenacy vacation
 - Thu 04-08 Final payment of summer hill rent
 - Sat 04-10 Receive keys to new apartment
-- Mon 04-12 Move contents, utilities cutover
+- Sun 04-11 Packing up at Summer Hill - 9am
+- Mon 04-12 Move contents, utilities cutover; movers arrive 9am
 - Tue 04-13 Cleaning of summer hill apt
 - Sat 04-17 Summer hill tenancy end, return keys
 
@@ -11,7 +12,7 @@
 
 - [x] Make timeline; nlt 03-23
 - [x] Make todos; nlt 03-23
-- [ ] Book moving company for 04-12; nlt 03-24
+- [x] Book moving company for 04-12; nlt 03-24
 - - [ ] ~Arrange for moving company access to North sydney apt~ N/A
 - [ ] Pay first 2 weeks rent, bond; nlt 03-25
 - [x] Measure furnature sizes + plan for moving, storage
