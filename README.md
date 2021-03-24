@@ -15,7 +15,7 @@
 - [x] Make todos; nlt 03-23
 - [x] Book moving company for 04-12; nlt 03-24
 - - [ ] ~Arrange for moving company access to North sydney apt~ N/A
-- [ ] Pay first 2 weeks rent, bond; nlt 03-25
+- [x] Pay first 2 weeks rent, bond; nlt 03-25
 - [x] Measure furnature sizes + plan for moving, storage
 - [ ] Book cleaner for 04-13; nlt 03-29
 - [ ] Arrange for fridge, washer removal; nlt 03-29
