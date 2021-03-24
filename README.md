@@ -4,7 +4,7 @@
 - Thu 04-08 Final payment of summer hill rent
 - Fri 04-09 Mum arrival in Sydney
 - Sat 04-10 Receive keys to new apartment
-- Sun 04-11 Packing up at Summer Hill - 9am
+- Sun 04-10 Packing up at Summer Hill - 9am
 - Mon 04-12 Move contents, utilities cutover; movers arrive 9am
 - Tue 04-13 Cleaning of summer hill apt
 - Sat 04-17 Summer hill tenancy end, return keys
