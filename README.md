@@ -20,9 +20,9 @@
 - [ ] Book cleaner for 04-13; nlt 03-29
 - [ ] Arrange for fridge, washer removal; nlt 03-29
 - [ ] Arrange utility transfer/connection; nlt 03-31
-- - [ ] Electricity (Red energy)
+- - [x] Electricity (Red energy)
 - - [ ] Internet (Optus)
-- - [ ] Gas (new connection - add to Red energy plan)
+- - [x] Gas (new connection)
 - [ ] Set up mail redirection; nlt 03-31
 - [ ] Notify change of address; nlt 04-16
 - - [ ] Work
