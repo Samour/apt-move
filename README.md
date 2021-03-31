@@ -21,9 +21,9 @@
 - [ ] Arrange for fridge, washer removal; nlt 03-29
 - [ ] Arrange utility transfer/connection; nlt 03-31
 - - [x] Electricity (Red energy)
-- - [ ] Internet (Optus)
+- - [ ] Internet (Optus) - ordered
 - - [x] Gas (new connection)
-- [ ] Set up mail redirection; nlt 03-31
+- [ ] Set up mail redirection; nlt 04-09
 - [ ] Notify change of address; nlt 04-16
 - - [ ] Work
 - - [ ] ATO (medicare, etc)
