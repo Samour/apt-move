@@ -17,8 +17,8 @@
 - - [ ] ~Arrange for moving company access to North sydney apt~ N/A
 - [x] Pay first 2 weeks rent, bond; nlt 03-25
 - [x] Measure furnature sizes + plan for moving, storage
-- [ ] Book cleaner for 04-13; nlt 03-29
-- [ ] Arrange for fridge, washer removal; nlt 03-29
+- [x] Book cleaner for 04-13; nlt 03-29
+- [x] Arrange for fridge, washer removal; nlt 03-29
 - [ ] Arrange utility transfer/connection; nlt 03-31
 - - [x] Electricity (Red energy)
 - - [ ] Internet (Optus) - ordered
