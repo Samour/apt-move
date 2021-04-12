@@ -23,14 +23,14 @@
 - - [x] Electricity (Red energy)
 - - [ ] Internet (Optus) - ordered
 - - [x] Gas (new connection)
-- [ ] Set up mail redirection; nlt 04-09
+- [ ] ~Set up mail redirection; nlt 04-09~
 - [ ] Notify change of address; nlt 04-16
 - - [ ] Work
-- - [ ] ATO (medicare, etc)
+- - [x] ATO (medicare, etc)
 - - [ ] AEC
-- - [ ] Drivers license
-- - [ ] Bank
-- - [ ] Dragonsteel
+- - [x] Drivers license
+- - [x] Bank
+- - [x] Dragonsteel
 
 # Moving notes
 
