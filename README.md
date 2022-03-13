@@ -1,9 +1,9 @@
 # Timeline
 
-- [ ] Pack car - Wed evening 30th
 - [ ] Furnature removal - Thur morning 31st
-- [ ] Cleaner - Thur afternoon 31st
-- [ ] Final inspection - Friday 1st
+- [ ] Pack car w/ personals - Thur evening 31st
+- [ ] Cleaner - Fri morning 1st
+- [ ] Final inspection - Friday afternoon 1st
 - [ ] Travel - Sat/Sun 2nd-3rd
 - [ ] Pay first 2 weeks rent, bond - TBD
 - [ ] Arrange utility transfer/connection - TBD
@@ -16,6 +16,8 @@
 - - [ ] Bank
 
 # Moving notes
+
+Stay in hotel in north sydney - Thu/Fri nights 31st-1st
 
 North sydney - No private parking/loading zone. Street parking usually opens up about 10am-2pm.
 
